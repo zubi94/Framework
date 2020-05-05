@@ -9,7 +9,7 @@ import java.util.concurrent.TimeUnit;
 import org.testng.Reporter;
 
 public class Target extends Cutilities{
-	
+//Working Target test automation	
   @Test (priority = 1)
   public void f() throws Exception  {
   driver.manage().timeouts().implicitlyWait(20,TimeUnit.SECONDS) ;

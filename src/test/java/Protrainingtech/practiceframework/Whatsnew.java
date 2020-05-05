@@ -14,12 +14,9 @@ public void f() throws InterruptedException {
 
 	  WebElement name=driver.findElement(By.xpath("//*[@id='trending']"));
 	  name.click();  
-	  WebElement menumotion=driver.findElement(By.linkText("All in Motion"));
+	  WebElement menumotion=driver.findElement(By.linkText("Home New Arrivals"));
 	  menumotion.click();
 	  //Screenshot();
-	 // driver.manage().timeouts().implicitlyWait(10,TimeUnit.SECONDS) ;
-	 // WebElement picclick=driver.findElement(By.xpath("//*[@class='MotionCard__Video-sc-24wmi0-1 bfpGke']"));
-	 // picclick.click();
 
   }
  
