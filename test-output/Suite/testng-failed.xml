@@ -10,24 +10,10 @@
   <listeners>
     <listener class-name="CommonUtilities.listner"/>
   </listeners>
-  <test thread-count="10" name="Home-Depot-firefox(failed)">
-    <parameter name="browser" value="firefox"/>
+  <test thread-count="10" name="Home-Depot-chrome(failed)">
+    <parameter name="browser" value="chrome"/>
     <parameter name="URL" value="https://www.homedepot.com"/>
     <classes>
-      <class name="bcamphomedepot.newaccount2">
-        <methods>
-          <include name="newaccount1" invocation-numbers="0"/>
-          <include name="browsers"/>
-          <include name="afterClass"/>
-        </methods>
-      </class> <!-- bcamphomedepot.newaccount2 -->
-      <class name="bcamphomedepot.logina">
-        <methods>
-          <include name="f" invocation-numbers="0"/>
-          <include name="browsers"/>
-          <include name="afterClass"/>
-        </methods>
-      </class> <!-- bcamphomedepot.logina -->
       <class name="bcamphomedepot.searchbutton">
         <methods>
           <include name="browsers"/>
@@ -36,5 +22,5 @@
         </methods>
       </class> <!-- bcamphomedepot.searchbutton -->
     </classes>
-  </test> <!-- Home-Depot-firefox(failed) -->
+  </test> <!-- Home-Depot-chrome(failed) -->
 </suite> <!-- Failed suite [Suite] -->
