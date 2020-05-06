@@ -14,12 +14,12 @@
       <![CDATA[End of Class]]>
     </line>
   </reporter-output>
-  <suite started-at="2020-05-05T16:33:06 EDT" name="Suite" finished-at="2020-05-05T16:44:57 EDT" duration-ms="711167">
+  <suite started-at="2020-05-06T16:48:38 EDT" name="Suite" finished-at="2020-05-06T17:02:14 EDT" duration-ms="816390">
     <groups>
     </groups>
-    <test started-at="2020-05-05T16:33:06 EDT" name="target-chrome-test" finished-at="2020-05-05T16:36:17 EDT" duration-ms="191338">
+    <test started-at="2020-05-06T16:48:38 EDT" name="target-chrome-test" finished-at="2020-05-06T16:52:07 EDT" duration-ms="209229">
       <class name="Protrainingtech.practiceframework.Whatsnew">
-        <test-method is-config="true" signature="browsers(java.lang.String, java.lang.String)[pri:0, instance:Protrainingtech.practiceframework.Whatsnew@147ed70f]" started-at="2020-05-05T16:35:43 EDT" name="browsers" finished-at="2020-05-05T16:36:01 EDT" duration-ms="17708" status="PASS">
+        <test-method is-config="true" signature="browsers(java.lang.String, java.lang.String)[pri:0, instance:Protrainingtech.practiceframework.Whatsnew@2f177a4b]" started-at="2020-05-06T16:51:27 EDT" name="browsers" finished-at="2020-05-06T16:51:56 EDT" duration-ms="28664" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -35,17 +35,17 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- browsers -->
-        <test-method signature="f()[pri:0, instance:Protrainingtech.practiceframework.Whatsnew@147ed70f]" started-at="2020-05-05T16:36:01 EDT" name="f" finished-at="2020-05-05T16:36:06 EDT" duration-ms="5096" status="PASS">
+        <test-method signature="f()[pri:0, instance:Protrainingtech.practiceframework.Whatsnew@2f177a4b]" started-at="2020-05-06T16:51:56 EDT" name="f" finished-at="2020-05-06T16:52:01 EDT" duration-ms="5200" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- f -->
-        <test-method is-config="true" signature="afterClass()[pri:0, instance:Protrainingtech.practiceframework.Whatsnew@147ed70f]" started-at="2020-05-05T16:36:17 EDT" name="afterClass" finished-at="2020-05-05T16:36:17 EDT" duration-ms="741" status="PASS">
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:Protrainingtech.practiceframework.Whatsnew@2f177a4b]" started-at="2020-05-06T16:52:03 EDT" name="afterClass" finished-at="2020-05-06T16:52:07 EDT" duration-ms="3869" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterClass -->
       </class> <!-- Protrainingtech.practiceframework.Whatsnew -->
       <class name="Protrainingtech.practiceframework.Newaccount">
-        <test-method is-config="true" signature="browsers(java.lang.String, java.lang.String)[pri:0, instance:Protrainingtech.practiceframework.Newaccount@4278a03f]" started-at="2020-05-05T16:35:07 EDT" name="browsers" finished-at="2020-05-05T16:35:30 EDT" duration-ms="22496" status="PASS">
+        <test-method is-config="true" signature="browsers(java.lang.String, java.lang.String)[pri:0, instance:Protrainingtech.practiceframework.Newaccount@29176cc1]" started-at="2020-05-06T16:50:43 EDT" name="browsers" finished-at="2020-05-06T16:51:07 EDT" duration-ms="23704" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -61,7 +61,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- browsers -->
-        <test-method signature="createaccount(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:Protrainingtech.practiceframework.Newaccount@4278a03f]" started-at="2020-05-05T16:35:30 EDT" name="createaccount" finished-at="2020-05-05T16:35:42 EDT" duration-ms="12292" status="PASS">
+        <test-method signature="createaccount(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:Protrainingtech.practiceframework.Newaccount@29176cc1]" started-at="2020-05-06T16:51:07 EDT" name="createaccount" finished-at="2020-05-06T16:51:21 EDT" duration-ms="14876" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -92,13 +92,13 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- createaccount -->
-        <test-method is-config="true" signature="afterClass()[pri:0, instance:Protrainingtech.practiceframework.Newaccount@4278a03f]" started-at="2020-05-05T16:35:43 EDT" name="afterClass" finished-at="2020-05-05T16:35:43 EDT" duration-ms="544" status="PASS">
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:Protrainingtech.practiceframework.Newaccount@29176cc1]" started-at="2020-05-06T16:51:22 EDT" name="afterClass" finished-at="2020-05-06T16:51:27 EDT" duration-ms="4816" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterClass -->
       </class> <!-- Protrainingtech.practiceframework.Newaccount -->
       <class name="Protrainingtech.practiceframework.Target">
-        <test-method is-config="true" signature="browsers(java.lang.String, java.lang.String)[pri:0, instance:Protrainingtech.practiceframework.Target@29176cc1]" started-at="2020-05-05T16:33:06 EDT" name="browsers" finished-at="2020-05-05T16:33:45 EDT" duration-ms="38827" status="PASS">
+        <test-method is-config="true" signature="browsers(java.lang.String, java.lang.String)[pri:0, instance:Protrainingtech.practiceframework.Target@2928854b]" started-at="2020-05-06T16:48:38 EDT" name="browsers" finished-at="2020-05-06T16:49:03 EDT" duration-ms="25095" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -114,7 +114,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- browsers -->
-        <test-method signature="f()[pri:1, instance:Protrainingtech.practiceframework.Target@29176cc1]" started-at="2020-05-05T16:33:45 EDT" name="f" finished-at="2020-05-05T16:33:56 EDT" duration-ms="11406" status="PASS">
+        <test-method signature="f()[pri:1, instance:Protrainingtech.practiceframework.Target@2928854b]" started-at="2020-05-06T16:49:03 EDT" name="f" finished-at="2020-05-06T16:49:18 EDT" duration-ms="15116" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[Clicked Main Menue]]>
@@ -124,7 +124,7 @@
             </line>
           </reporter-output>
         </test-method> <!-- f -->
-        <test-method signature="search(java.lang.String)[pri:2, instance:Protrainingtech.practiceframework.Target@29176cc1]" started-at="2020-05-05T16:34:01 EDT" name="search" data-provider="dp" finished-at="2020-05-05T16:34:12 EDT" duration-ms="11158" status="PASS">
+        <test-method signature="search(java.lang.String)[pri:2, instance:Protrainingtech.practiceframework.Target@2928854b]" started-at="2020-05-06T16:49:21 EDT" name="search" data-provider="dp" finished-at="2020-05-06T16:49:34 EDT" duration-ms="12945" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -135,7 +135,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- search -->
-        <test-method signature="search(java.lang.String)[pri:2, instance:Protrainingtech.practiceframework.Target@29176cc1]" started-at="2020-05-05T16:34:14 EDT" name="search" data-provider="dp" finished-at="2020-05-05T16:34:20 EDT" duration-ms="6103" status="PASS">
+        <test-method signature="search(java.lang.String)[pri:2, instance:Protrainingtech.practiceframework.Target@2928854b]" started-at="2020-05-06T16:49:35 EDT" name="search" data-provider="dp" finished-at="2020-05-06T16:49:44 EDT" duration-ms="9007" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -146,7 +146,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- search -->
-        <test-method signature="search(java.lang.String)[pri:2, instance:Protrainingtech.practiceframework.Target@29176cc1]" started-at="2020-05-05T16:34:23 EDT" name="search" data-provider="dp" finished-at="2020-05-05T16:34:30 EDT" duration-ms="7173" status="PASS">
+        <test-method signature="search(java.lang.String)[pri:2, instance:Protrainingtech.practiceframework.Target@2928854b]" started-at="2020-05-06T16:49:45 EDT" name="search" data-provider="dp" finished-at="2020-05-06T16:49:53 EDT" duration-ms="7565" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -157,13 +157,13 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- search -->
-        <test-method is-config="true" signature="afterClass()[pri:0, instance:Protrainingtech.practiceframework.Target@29176cc1]" started-at="2020-05-05T16:34:34 EDT" name="afterClass" finished-at="2020-05-05T16:34:38 EDT" duration-ms="4518" status="PASS">
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:Protrainingtech.practiceframework.Target@2928854b]" started-at="2020-05-06T16:49:53 EDT" name="afterClass" finished-at="2020-05-06T16:50:00 EDT" duration-ms="6627" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterClass -->
       </class> <!-- Protrainingtech.practiceframework.Target -->
       <class name="Protrainingtech.practiceframework.Pagesignin">
-        <test-method is-config="true" signature="browsers(java.lang.String, java.lang.String)[pri:0, instance:Protrainingtech.practiceframework.Pagesignin@2f177a4b]" started-at="2020-05-05T16:34:38 EDT" name="browsers" finished-at="2020-05-05T16:34:57 EDT" duration-ms="18394" status="PASS">
+        <test-method is-config="true" signature="browsers(java.lang.String, java.lang.String)[pri:0, instance:Protrainingtech.practiceframework.Pagesignin@27ae2fd0]" started-at="2020-05-06T16:50:00 EDT" name="browsers" finished-at="2020-05-06T16:50:26 EDT" duration-ms="25794" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -179,19 +179,19 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- browsers -->
-        <test-method signature="f()[pri:0, instance:Protrainingtech.practiceframework.Pagesignin@2f177a4b]" started-at="2020-05-05T16:34:57 EDT" name="f" finished-at="2020-05-05T16:35:06 EDT" duration-ms="9507" status="PASS">
+        <test-method signature="f()[pri:0, instance:Protrainingtech.practiceframework.Pagesignin@27ae2fd0]" started-at="2020-05-06T16:50:26 EDT" name="f" finished-at="2020-05-06T16:50:42 EDT" duration-ms="15737" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- f -->
-        <test-method is-config="true" signature="afterClass()[pri:0, instance:Protrainingtech.practiceframework.Pagesignin@2f177a4b]" started-at="2020-05-05T16:35:07 EDT" name="afterClass" finished-at="2020-05-05T16:35:07 EDT" duration-ms="507" status="PASS">
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:Protrainingtech.practiceframework.Pagesignin@27ae2fd0]" started-at="2020-05-06T16:50:42 EDT" name="afterClass" finished-at="2020-05-06T16:50:43 EDT" duration-ms="772" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterClass -->
       </class> <!-- Protrainingtech.practiceframework.Pagesignin -->
     </test> <!-- target-chrome-test -->
-    <test started-at="2020-05-05T16:36:20 EDT" name="target-firefox-test" finished-at="2020-05-05T16:42:08 EDT" duration-ms="347499">
+    <test started-at="2020-05-06T16:52:08 EDT" name="target-firefox-test" finished-at="2020-05-06T16:58:55 EDT" duration-ms="406755">
       <class name="Protrainingtech.practiceframework.Whatsnew">
-        <test-method is-config="true" signature="browsers(java.lang.String, java.lang.String)[pri:0, instance:Protrainingtech.practiceframework.Whatsnew@1534f01b]" started-at="2020-05-05T16:41:01 EDT" name="browsers" finished-at="2020-05-05T16:41:31 EDT" duration-ms="29224" status="PASS">
+        <test-method is-config="true" signature="browsers(java.lang.String, java.lang.String)[pri:0, instance:Protrainingtech.practiceframework.Whatsnew@65466a6a]" started-at="2020-05-06T16:57:34 EDT" name="browsers" finished-at="2020-05-06T16:58:12 EDT" duration-ms="38792" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -207,17 +207,17 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- browsers -->
-        <test-method signature="f()[pri:0, instance:Protrainingtech.practiceframework.Whatsnew@1534f01b]" started-at="2020-05-05T16:41:31 EDT" name="f" finished-at="2020-05-05T16:41:37 EDT" duration-ms="6924" status="PASS">
+        <test-method signature="f()[pri:0, instance:Protrainingtech.practiceframework.Whatsnew@65466a6a]" started-at="2020-05-06T16:58:12 EDT" name="f" finished-at="2020-05-06T16:58:22 EDT" duration-ms="9638" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- f -->
-        <test-method is-config="true" signature="afterClass()[pri:0, instance:Protrainingtech.practiceframework.Whatsnew@1534f01b]" started-at="2020-05-05T16:41:39 EDT" name="afterClass" finished-at="2020-05-05T16:42:08 EDT" duration-ms="28651" status="PASS">
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:Protrainingtech.practiceframework.Whatsnew@65466a6a]" started-at="2020-05-06T16:58:23 EDT" name="afterClass" finished-at="2020-05-06T16:58:55 EDT" duration-ms="32060" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterClass -->
       </class> <!-- Protrainingtech.practiceframework.Whatsnew -->
       <class name="Protrainingtech.practiceframework.Newaccount">
-        <test-method is-config="true" signature="browsers(java.lang.String, java.lang.String)[pri:0, instance:Protrainingtech.practiceframework.Newaccount@4b14c583]" started-at="2020-05-05T16:36:20 EDT" name="browsers" finished-at="2020-05-05T16:36:58 EDT" duration-ms="38379" status="PASS">
+        <test-method is-config="true" signature="browsers(java.lang.String, java.lang.String)[pri:0, instance:Protrainingtech.practiceframework.Newaccount@433d61fb]" started-at="2020-05-06T16:52:08 EDT" name="browsers" finished-at="2020-05-06T16:53:28 EDT" duration-ms="79913" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -233,7 +233,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- browsers -->
-        <test-method signature="createaccount(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:Protrainingtech.practiceframework.Newaccount@4b14c583]" started-at="2020-05-05T16:36:58 EDT" name="createaccount" finished-at="2020-05-05T16:37:12 EDT" duration-ms="13327" status="PASS">
+        <test-method signature="createaccount(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:Protrainingtech.practiceframework.Newaccount@433d61fb]" started-at="2020-05-06T16:53:28 EDT" name="createaccount" finished-at="2020-05-06T16:53:54 EDT" duration-ms="26108" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -264,13 +264,13 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- createaccount -->
-        <test-method is-config="true" signature="afterClass()[pri:0, instance:Protrainingtech.practiceframework.Newaccount@4b14c583]" started-at="2020-05-05T16:37:12 EDT" name="afterClass" finished-at="2020-05-05T16:37:43 EDT" duration-ms="30621" status="PASS">
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:Protrainingtech.practiceframework.Newaccount@433d61fb]" started-at="2020-05-06T16:53:56 EDT" name="afterClass" finished-at="2020-05-06T16:54:18 EDT" duration-ms="22106" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterClass -->
       </class> <!-- Protrainingtech.practiceframework.Newaccount -->
       <class name="Protrainingtech.practiceframework.Target">
-        <test-method is-config="true" signature="browsers(java.lang.String, java.lang.String)[pri:0, instance:Protrainingtech.practiceframework.Target@4ddced80]" started-at="2020-05-05T16:38:45 EDT" name="browsers" finished-at="2020-05-05T16:39:07 EDT" duration-ms="22663" status="PASS">
+        <test-method is-config="true" signature="browsers(java.lang.String, java.lang.String)[pri:0, instance:Protrainingtech.practiceframework.Target@4b14c583]" started-at="2020-05-06T16:55:26 EDT" name="browsers" finished-at="2020-05-06T16:55:55 EDT" duration-ms="28595" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -286,7 +286,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- browsers -->
-        <test-method signature="f()[pri:1, instance:Protrainingtech.practiceframework.Target@4ddced80]" started-at="2020-05-05T16:39:07 EDT" name="f" finished-at="2020-05-05T16:39:30 EDT" duration-ms="22301" status="PASS">
+        <test-method signature="f()[pri:1, instance:Protrainingtech.practiceframework.Target@4b14c583]" started-at="2020-05-06T16:55:55 EDT" name="f" finished-at="2020-05-06T16:56:22 EDT" duration-ms="26843" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[Clicked Main Menue]]>
@@ -296,7 +296,7 @@
             </line>
           </reporter-output>
         </test-method> <!-- f -->
-        <test-method signature="search(java.lang.String)[pri:2, instance:Protrainingtech.practiceframework.Target@4ddced80]" started-at="2020-05-05T16:39:31 EDT" name="search" data-provider="dp" finished-at="2020-05-05T16:39:41 EDT" duration-ms="10641" status="PASS">
+        <test-method signature="search(java.lang.String)[pri:2, instance:Protrainingtech.practiceframework.Target@4b14c583]" started-at="2020-05-06T16:56:23 EDT" name="search" data-provider="dp" finished-at="2020-05-06T16:56:36 EDT" duration-ms="12808" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -307,7 +307,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- search -->
-        <test-method signature="search(java.lang.String)[pri:2, instance:Protrainingtech.practiceframework.Target@4ddced80]" started-at="2020-05-05T16:39:42 EDT" name="search" data-provider="dp" finished-at="2020-05-05T16:39:53 EDT" duration-ms="11682" status="PASS">
+        <test-method signature="search(java.lang.String)[pri:2, instance:Protrainingtech.practiceframework.Target@4b14c583]" started-at="2020-05-06T16:56:37 EDT" name="search" data-provider="dp" finished-at="2020-05-06T16:56:49 EDT" duration-ms="12520" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -318,7 +318,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- search -->
-        <test-method signature="search(java.lang.String)[pri:2, instance:Protrainingtech.practiceframework.Target@4ddced80]" started-at="2020-05-05T16:39:54 EDT" name="search" data-provider="dp" finished-at="2020-05-05T16:40:07 EDT" duration-ms="13103" status="PASS">
+        <test-method signature="search(java.lang.String)[pri:2, instance:Protrainingtech.practiceframework.Target@4b14c583]" started-at="2020-05-06T16:56:51 EDT" name="search" data-provider="dp" finished-at="2020-05-06T16:57:03 EDT" duration-ms="12180" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -329,13 +329,13 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- search -->
-        <test-method is-config="true" signature="afterClass()[pri:0, instance:Protrainingtech.practiceframework.Target@4ddced80]" started-at="2020-05-05T16:40:09 EDT" name="afterClass" finished-at="2020-05-05T16:41:01 EDT" duration-ms="52509" status="PASS">
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:Protrainingtech.practiceframework.Target@4b14c583]" started-at="2020-05-06T16:57:04 EDT" name="afterClass" finished-at="2020-05-06T16:57:34 EDT" duration-ms="29515" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterClass -->
       </class> <!-- Protrainingtech.practiceframework.Target -->
       <class name="Protrainingtech.practiceframework.Pagesignin">
-        <test-method is-config="true" signature="browsers(java.lang.String, java.lang.String)[pri:0, instance:Protrainingtech.practiceframework.Pagesignin@65466a6a]" started-at="2020-05-05T16:37:43 EDT" name="browsers" finished-at="2020-05-05T16:38:03 EDT" duration-ms="20109" status="PASS">
+        <test-method is-config="true" signature="browsers(java.lang.String, java.lang.String)[pri:0, instance:Protrainingtech.practiceframework.Pagesignin@5c909414]" started-at="2020-05-06T16:54:18 EDT" name="browsers" finished-at="2020-05-06T16:54:41 EDT" duration-ms="22813" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -351,19 +351,19 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- browsers -->
-        <test-method signature="f()[pri:0, instance:Protrainingtech.practiceframework.Pagesignin@65466a6a]" started-at="2020-05-05T16:38:03 EDT" name="f" finished-at="2020-05-05T16:38:13 EDT" duration-ms="9782" status="PASS">
+        <test-method signature="f()[pri:0, instance:Protrainingtech.practiceframework.Pagesignin@5c909414]" started-at="2020-05-06T16:54:41 EDT" name="f" finished-at="2020-05-06T16:54:54 EDT" duration-ms="12982" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- f -->
-        <test-method is-config="true" signature="afterClass()[pri:0, instance:Protrainingtech.practiceframework.Pagesignin@65466a6a]" started-at="2020-05-05T16:38:13 EDT" name="afterClass" finished-at="2020-05-05T16:38:45 EDT" duration-ms="31818" status="PASS">
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:Protrainingtech.practiceframework.Pagesignin@5c909414]" started-at="2020-05-06T16:54:54 EDT" name="afterClass" finished-at="2020-05-06T16:55:26 EDT" duration-ms="32380" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterClass -->
       </class> <!-- Protrainingtech.practiceframework.Pagesignin -->
     </test> <!-- target-firefox-test -->
-    <test started-at="2020-05-05T16:42:08 EDT" name="Home-Depot-chrome" finished-at="2020-05-05T16:44:57 EDT" duration-ms="169648">
+    <test started-at="2020-05-06T16:58:55 EDT" name="Home-Depot-chrome" finished-at="2020-05-06T17:02:14 EDT" duration-ms="199075">
       <class name="bcamphomedepot.searchbutton">
-        <test-method is-config="true" signature="browsers(java.lang.String, java.lang.String)[pri:0, instance:bcamphomedepot.searchbutton@2f7c2f4f]" started-at="2020-05-05T16:43:16 EDT" name="browsers" finished-at="2020-05-05T16:43:32 EDT" duration-ms="15798" status="PASS">
+        <test-method is-config="true" signature="browsers(java.lang.String, java.lang.String)[pri:0, instance:bcamphomedepot.searchbutton@149e0f5d]" started-at="2020-05-06T17:00:17 EDT" name="browsers" finished-at="2020-05-06T17:00:36 EDT" duration-ms="18815" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -379,7 +379,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- browsers -->
-        <test-method signature="f(java.lang.String)[pri:1, instance:bcamphomedepot.searchbutton@2f7c2f4f]" started-at="2020-05-05T16:43:32 EDT" name="f" data-provider="dp" finished-at="2020-05-05T16:43:48 EDT" duration-ms="15418" status="PASS">
+        <test-method signature="f(java.lang.String)[pri:1, instance:bcamphomedepot.searchbutton@149e0f5d]" started-at="2020-05-06T17:00:36 EDT" name="f" data-provider="dp" finished-at="2020-05-06T17:00:55 EDT" duration-ms="19471" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -390,7 +390,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- f -->
-        <test-method signature="f(java.lang.String)[pri:1, instance:bcamphomedepot.searchbutton@2f7c2f4f]" started-at="2020-05-05T16:43:50 EDT" name="f" data-provider="dp" finished-at="2020-05-05T16:44:05 EDT" duration-ms="14955" status="PASS">
+        <test-method signature="f(java.lang.String)[pri:1, instance:bcamphomedepot.searchbutton@149e0f5d]" started-at="2020-05-06T17:00:58 EDT" name="f" data-provider="dp" finished-at="2020-05-06T17:01:06 EDT" duration-ms="8110" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -401,7 +401,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- f -->
-        <test-method signature="f(java.lang.String)[pri:1, instance:bcamphomedepot.searchbutton@2f7c2f4f]" started-at="2020-05-05T16:44:06 EDT" name="f" data-provider="dp" finished-at="2020-05-05T16:44:27 EDT" duration-ms="20957" status="PASS">
+        <test-method signature="f(java.lang.String)[pri:1, instance:bcamphomedepot.searchbutton@149e0f5d]" started-at="2020-05-06T17:01:09 EDT" name="f" data-provider="dp" finished-at="2020-05-06T17:01:29 EDT" duration-ms="20006" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -412,17 +412,17 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- f -->
-        <test-method signature="addcart()[pri:2, instance:bcamphomedepot.searchbutton@2f7c2f4f]" started-at="2020-05-05T16:44:29 EDT" name="addcart" finished-at="2020-05-05T16:44:49 EDT" duration-ms="19150" status="PASS">
+        <test-method signature="addcart()[pri:2, instance:bcamphomedepot.searchbutton@149e0f5d]" started-at="2020-05-06T17:01:33 EDT" name="addcart" finished-at="2020-05-06T17:02:01 EDT" duration-ms="28290" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- addcart -->
-        <test-method is-config="true" signature="afterClass()[pri:0, instance:bcamphomedepot.searchbutton@2f7c2f4f]" started-at="2020-05-05T16:44:56 EDT" name="afterClass" finished-at="2020-05-05T16:44:57 EDT" duration-ms="1157" status="PASS">
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:bcamphomedepot.searchbutton@149e0f5d]" started-at="2020-05-06T17:02:12 EDT" name="afterClass" finished-at="2020-05-06T17:02:14 EDT" duration-ms="2393" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterClass -->
       </class> <!-- bcamphomedepot.searchbutton -->
       <class name="bcamphomedepot.logina">
-        <test-method is-config="true" signature="browsers(java.lang.String, java.lang.String)[pri:0, instance:bcamphomedepot.logina@1b1473ab]" started-at="2020-05-05T16:42:42 EDT" name="browsers" finished-at="2020-05-05T16:42:59 EDT" duration-ms="17544" status="PASS">
+        <test-method is-config="true" signature="browsers(java.lang.String, java.lang.String)[pri:0, instance:bcamphomedepot.logina@3aefe5e5]" started-at="2020-05-06T16:59:36 EDT" name="browsers" finished-at="2020-05-06T16:59:59 EDT" duration-ms="23513" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -438,7 +438,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- browsers -->
-        <test-method signature="f(java.lang.String, java.lang.String)[pri:0, instance:bcamphomedepot.logina@1b1473ab]" started-at="2020-05-05T16:42:59 EDT" name="f" finished-at="2020-05-05T16:43:11 EDT" duration-ms="12040" status="PASS">
+        <test-method signature="f(java.lang.String, java.lang.String)[pri:0, instance:bcamphomedepot.logina@3aefe5e5]" started-at="2020-05-06T16:59:59 EDT" name="f" finished-at="2020-05-06T17:00:12 EDT" duration-ms="12583" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -454,13 +454,13 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- f -->
-        <test-method is-config="true" signature="afterClass()[pri:0, instance:bcamphomedepot.logina@1b1473ab]" started-at="2020-05-05T16:43:12 EDT" name="afterClass" finished-at="2020-05-05T16:43:16 EDT" duration-ms="4485" status="PASS">
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:bcamphomedepot.logina@3aefe5e5]" started-at="2020-05-06T17:00:13 EDT" name="afterClass" finished-at="2020-05-06T17:00:17 EDT" duration-ms="4557" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterClass -->
       </class> <!-- bcamphomedepot.logina -->
       <class name="bcamphomedepot.newaccount2">
-        <test-method is-config="true" signature="browsers(java.lang.String, java.lang.String)[pri:0, instance:bcamphomedepot.newaccount2@149e0f5d]" started-at="2020-05-05T16:42:08 EDT" name="browsers" finished-at="2020-05-05T16:42:28 EDT" duration-ms="20259" status="PASS">
+        <test-method is-config="true" signature="browsers(java.lang.String, java.lang.String)[pri:0, instance:bcamphomedepot.newaccount2@1184ab05]" started-at="2020-05-06T16:58:55 EDT" name="browsers" finished-at="2020-05-06T16:59:17 EDT" duration-ms="22035" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -476,7 +476,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- browsers -->
-        <test-method signature="newaccount1(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:bcamphomedepot.newaccount2@149e0f5d]" started-at="2020-05-05T16:42:28 EDT" name="newaccount1" finished-at="2020-05-05T16:42:41 EDT" duration-ms="12865" status="PASS">
+        <test-method signature="newaccount1(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:bcamphomedepot.newaccount2@1184ab05]" started-at="2020-05-06T16:59:17 EDT" name="newaccount1" finished-at="2020-05-06T16:59:35 EDT" duration-ms="17366" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -502,7 +502,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- newaccount1 -->
-        <test-method is-config="true" signature="afterClass()[pri:0, instance:bcamphomedepot.newaccount2@149e0f5d]" started-at="2020-05-05T16:42:41 EDT" name="afterClass" finished-at="2020-05-05T16:42:42 EDT" duration-ms="612" status="PASS">
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:bcamphomedepot.newaccount2@1184ab05]" started-at="2020-05-06T16:59:35 EDT" name="afterClass" finished-at="2020-05-06T16:59:36 EDT" duration-ms="617" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterClass -->
